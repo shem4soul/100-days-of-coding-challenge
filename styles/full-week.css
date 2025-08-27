@@ -1,3 +1,7 @@
+header {
+    margin-bottom: 64px;
+}
+
 h1 {
     font-size: 48px;
     color: rgb(71, 62,62);
@@ -43,4 +47,9 @@ h2 {
 main p {
     margin: 12px;
     color: rgb(71, 29, 22);
+}
+
+
+.highlight-goal {
+    background-color: rgb(226, 115, 101);
 }
