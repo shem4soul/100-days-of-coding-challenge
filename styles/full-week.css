@@ -19,6 +19,8 @@ a {
     border: 1px solid rgb(167, 1, 78);
     border-radius: 4px;
     font-size: 24px;
+    display: inline-block;
+    margin: 12px;
 }
 
 a:hover {
